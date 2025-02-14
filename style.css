@@ -4,9 +4,9 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: lightblue;
   text-align: center;
-  color: navy;
+  color: darkturquoise;
   margin: auto;
   font-family: water;
 }
@@ -16,10 +16,10 @@ h1{
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://cdn.glitch.global/b536bb30-3365-4f60-b3d4-6602e5b12098/6a6c5be42b6e387452110c9ccce2e3d7.gif?v=1739463992870");
   background-size: 600px 400px;
   border-radius: 300px;
-  border: 5px solid white;
+  border: 5px solid darkturquoise;
 }
 
 
